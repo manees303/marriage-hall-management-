@@ -1,4 +1,4 @@
-# marriage-hall-management-
+# marriage_hall_management
 marriage hall management is simply ceated to manage the marriage hall system offline 
 # admin-
 in this admin is already added in the system 
